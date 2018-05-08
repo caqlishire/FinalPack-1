@@ -3,7 +3,7 @@
 #Here are what I learned from each week:
 ### Week 1
 - Introduce each other (It was nice seeing each other)
-- Was introduce to what will be teaching, devices that required, D2L and github account.y
+- Was introduced to what will be teaching, devices that required, and D2L.
 ### Week 2
 ### Week 3
 ### Week 4
