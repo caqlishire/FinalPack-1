@@ -26,9 +26,9 @@ FinalPack
 ### Week 12
 - I read about [How does the Internet Work](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/internet.html) and downloaded wireshark. I also went throught [tcpdump tutorial](https://danielmiessler.com/study/tcpdump/) and wrote a [tcpdump script](https://github.com/vangx033/Chapter11/blob/master/tcpdumpscript.sh). I learned that tcpdump is used to capture the traffics passing through your network. I also read chapter 11 and here is my [chapter 11 script](https://github.com/vangx033/Chapter11/blob/master/Ch11script.sh). I learned how to differentiate using quotes.
 ### Week 13
--
+- I missed this week. I went to a funeral in Tulsa, Oklahoma.
 ### Week 14
-- 
+- As for week 14, chapter 14 was about Window Managers and chapter 15 was about the C compiler. I learned some commands such as "xwininfo" to see the location of the icon and "xlsclients -l" to list all the window IDs forand clients. Here are my two essays for [chapter 14 - A Brief Survey of the Linux Desktop](https://github.com/vangx033/Week14/blob/master/Ch14.md) and [chapter 15 - Devevopment Tools](https://github.com/vangx033/Week14/blob/master/Ch15.md).
 ### Week 15 
 ### Week 16
 ### Week 17
