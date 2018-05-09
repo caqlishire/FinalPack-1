@@ -6,7 +6,7 @@ FinalPack
 ### Week 2
 - What I learned from chapter2 was amazing. Learning these simple and everyday commands, I find it really helpful. Here is my [week 2 script](https://github.com/vangx033/Week3/blob/master/Week2.sh). I also created a github account, posted in D2L and sent the username to the instructor.  
 ### Week 3
-- I created [first repository](https://github.com/vangx033/hello-world) in Github. 
+- I created my [first repository](https://github.com/vangx033/hello-world) in Github. I learned the three commands to get my github update; git add *, git commit and git push. I read chapter 3 and applied on my [week 3 script](https://github.com/vangx033/Chapter3Script). I learned how to change directory and send text to a black hole. 
 ### Week 4
 - 
 ### Week 5
