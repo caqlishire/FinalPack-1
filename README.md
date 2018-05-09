@@ -33,7 +33,6 @@ Team contribution: I was trying to set up my Pi as a server using Fonguh's scrip
 - As for week 14, chapter 14 was about Window Managers and chapter 15 was about the C compiler. I learned some commands such as "xwininfo" to see the location of the icon and "xlsclients -l" to list all the window IDs for its clients. Here are my two essays for [chapter 14 - A Brief Survey of the Linux Desktop](https://github.com/vangx033/Week14/blob/master/Ch14.md) and [chapter 15 - Devevopment Tools](https://github.com/vangx033/Week14/blob/master/Ch15.md).
 Team contribution: As I failed to set up my Pi as a server and failed to connect to his server at home, I did some research about [TCP vs UDP and SSH port 22](https://github.com/vangx033/Week14/blob/master/README.md).
 ### Week 15
-- As for week, my team contrubition was to write steps on how to buy, install, lauch the GUI and connect to the [server](https://github.com/vangx033/Week15/blob/master/AccessingMinecraftServer.sh) and was later added [images](https://github.com/grenack/Code-Blockers/blob/master/AccessingMinecraftServer.md). 
+- As for this week, my team contrubition was to write steps on how to buy, install, lauch the GUI and connect to the [server](https://github.com/vangx033/Week15/blob/master/AccessingMinecraftServer.sh) and was later added [images](https://github.com/grenack/Code-Blockers/blob/master/AccessingMinecraftServer.md). 
 ### Week 16
 - Team contribution: I created a template on [how to play minecraft](https://github.com/vangx033/Week16/blob/master/HowToPlay.md). Our presentation to the class was successfully done.
-### Week 17
