@@ -24,6 +24,7 @@ FinalPack
 ### Week 11
 - I like chapter 9 and 10 since I'm going for computer network engineering. I learned about network basic such as LAN, WAN and its gateway. I learned about the 4 network layers. I also learned about TCP, UDP, and DHCP. My are my [chapter 9 script](https://github.com/vangx033/Chapter9/blob/master/Ch9script.sh) and [chapter 10 script](https://github.com/vangx033/Chapter10/blob/master/Ch10script.sh). 
 ### Week 12
+- I read about [How does the Internet Work](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/internet.html) and download wireshark. I also went throught [tcpdump](https://danielmiessler.com/study/tcpdump/) and wrote a [tcpdump script](https://github.com/vangx033/Chapter11/blob/master/tcpdumpscript.sh). I learned that tcpdump is used to capture the traffics passing through your network. I also read chapter 11 and here is my [chapter 11 script](https://github.com/vangx033/Chapter11/blob/master/Ch11script.sh). I learned how to differentiate using quotes.
 ### Week 13
 -
 ### Week 14
