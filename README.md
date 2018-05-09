@@ -5,10 +5,12 @@
 - Introduce each other (It was nice seeing each other)
 - Was introduced to what will be teaching, devices that required, and D2L.
 ### Week 2
+-
 ### Week 3
 ### Week 4
 ### Week 5
 ### Week 6
+- No class (V-day)
 ### Week 7
 ### Week 8
 ### Week 9
