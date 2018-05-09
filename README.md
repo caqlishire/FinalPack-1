@@ -16,9 +16,11 @@ FinalPack
 ### Week 7
 - I wrote a [500 words essay](https://github.com/vangx033/week7) respond to [Bill Langenberg's eassay](https://tuftsdev.github.io/WebProgramming/notes/blangenberg.pdf). I also read chapter 7 and applied on my [week 7 script](https://github.com/vangx033/week7/blob/master/Ch7script.sh). One of the command I use was logger command to testing the syster logger.   
 ### Week 8
-- Week 8 was to re-write and re-apply all the commands that I've learned so far. I simply utilized commands from chapter 2 to chapter 7 for my [midterm script](https://github.com/vangx033/week8/blob/master/Week8Script.sh). 
+- Week 8 was to re-write and re-apply all the commands that I've learned so far. I simply utilized commands from chapter 2 to chapter 7 for my [midterm script](https://github.com/vangx033/week8/blob/master/Week8Script.sh). I presented my midterm script to the class.  
 ### Week 9
+- I was amazed on nice and great scripts from all my peers. I never thought there is such a command as "sleep". I have used it a lot for my later scripts.
 ### Week 10
+- 
 ### Week 11
 ### Week 12
 ### Week 13
