@@ -1,6 +1,5 @@
-FinalPack
+FinalPack - what I learned from each week:
 
-#Here are what I learned from each week:
 ### Week 1
 - First week, we introduced ourselves and shared some background about Linux to each other. Instructor informed us about his class, textbook, syllabus, assignments, D2L Brightspace, grade, devices and software  required for class such as a laptop, USB drive, and virtual machines. I read chapter 1 and learned about kernel which is managing tasks for processes, memory, device drivers and system calls and support. I also learned about user space which Linux system is running.
 ### Week 2
@@ -36,3 +35,5 @@ Team contribution: As I failed to set up my Pi as a server and failed to connect
 - As for this week, my team contribution was to write steps on [how to buy, install, launch the GUI and connect to the server](https://github.com/vangx033/Week15/blob/master/AccessingMinecraftServer.sh) and was later [added images for easier to follow](https://github.com/grenack/Code-Blockers/blob/master/AccessingMinecraftServer.md). 
 ### Week 16
 - Team contribution: I created a template on [how to play minecraft](https://github.com/vangx033/Week16/blob/master/HowToPlay.md). Our presentation to the class was successfully done.
+
+Overall, I really like this ticket. I actully get to play and apply commands as I go. I believe this is how we learn. This is really a book from getting you the concept of the Linux to simple commands to compile them as a script. By working with my classmates was a great experience especially Code-Blockers. Go Code-Blockers.
