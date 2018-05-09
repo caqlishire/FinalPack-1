@@ -8,7 +8,7 @@ FinalPack
 ### Week 3
 - I created my [first repository](https://github.com/vangx033/hello-world) in Github. I learned the three commands to get my github update; git add *, git commit and git push. I read chapter 3 and applied on my [week 3 script](https://github.com/vangx033/Chapter3Script). I learned how to change directory and send text to a black hole. 
 ### Week 4
-- I learned how to download a linux ISO image(I downloaded Ubuntu) and saved it in my USB drive. Then make the Ubuntu OS bootable from the USB drive. I learned a big lession from this week, I accidently install the Ubuntu OS and overridden my Windows OS. I have to reformated my machine back to Windows OS. I read chapter 5 and applied to my [week 4 script](https://github.com/vangx033/ch4script).  
+- I learned how to download a Linux ISO image (I downloaded Ubuntu) and saved it in my USB drive. Then make the Ubuntu OS bootable from the USB drive. I learned a big lession from this week, I accidently installed the Ubuntu OS and overridden my Windows OS. I had to re-format my machine back to Windows OS. I read chapter 5 and applied to my [week 4 script](https://github.com/vangx033/ch4script).  
 ### Week 5
 -
 ### Week 6
