@@ -28,8 +28,10 @@ FinalPack
 We got divided into 5 groups for our final projects. Our group decided to set up a gaming server(minecraft) and named our group as [Code-Blockers](https://github.com/grenack/Code-Blockers). 
 ### Week 13
 - I missed this week. I went to a funeral in Tulsa, Oklahoma.
+Team contribution: I was trying to set up my Pi as a server using Fonguh's script but was unsucessful. We noted down and he was able to isolate the trouble. We will have to manually enter some commmands to make the script run. 
 ### Week 14
 - As for week 14, chapter 14 was about Window Managers and chapter 15 was about the C compiler. I learned some commands such as "xwininfo" to see the location of the icon and "xlsclients -l" to list all the window IDs forand clients. Here are my two essays for [chapter 14 - A Brief Survey of the Linux Desktop](https://github.com/vangx033/Week14/blob/master/Ch14.md) and [chapter 15 - Devevopment Tools](https://github.com/vangx033/Week14/blob/master/Ch15.md).
+Team contribution: As I failed to set up my Pi as a server and failed to connect to his server at home, I did some research about [TCP vs UDP and SSH port 22](https://github.com/vangx033/Week14/blob/master/README.md).
 ### Week 15 
 ### Week 16
 ### Week 17
