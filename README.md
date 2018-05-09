@@ -22,9 +22,12 @@ FinalPack
 ### Week 10
 - Spring Break
 ### Week 11
+- I like this chapter 9 and 10 since I'm going for computer networking. I learned about network basic such LAN and WAN. I learned about the 4 network layers. I also learned about TCP, UDP, and DHCP. My are my [chapter 9 script](https://github.com/vangx033/Chapter9/blob/master/Ch9script.sh) and [chapter 10 script](https://github.com/vangx033/Chapter10/blob/master/Ch10script.sh). 
 ### Week 12
 ### Week 13
+-
 ### Week 14
+- 
 ### Week 15 
 ### Week 16
 ### Week 17
