@@ -1,5 +1,4 @@
-
-# FinalPack
+FinalPack
 
 #Here are what I learned from each week:
 ### Week 1
@@ -7,12 +6,17 @@
 ### Week 2
 - What I learned from chapter2 was amazing. Learning these simple and everyday commands, I find it really helpful. Here is my [week 2 script](https://github.com/vangx033/Week3/blob/master/Week2.sh). I also created a github account, posted in D2L and sent the username to the instructor.  
 ### Week 3
+- I created [first repository](https://github.com/vangx033/hello-world) in Github. 
 ### Week 4
+- 
 ### Week 5
+-
 ### Week 6
 - No class (V-day)
 ### Week 7
+-
 ### Week 8
+-
 ### Week 9
 ### Week 10
 ### Week 11
