@@ -10,7 +10,7 @@ FinalPack
 ### Week 4
 - I learned how to download a Linux ISO image (I downloaded Ubuntu) and saved it in my USB drive. Then make the Ubuntu OS bootable from the USB drive. I learned a big lession from this week, I accidently installed the Ubuntu OS and overridden my Windows OS. I had to re-format my machine back to Windows OS. I read chapter 5 and applied to my [week 4 script](https://github.com/vangx033/ch4script).  
 ### Week 5
--
+- Chapter 5 is more about GRUB. Here is my [week 5](https://github.com/vangx033/week5). I utilized the dmesg to view kernel's boot and logs. I also used cat /proc/cdmline to view ketnel's parameters.
 ### Week 6
 - No class (V-day)
 ### Week 7
