@@ -12,7 +12,7 @@ FinalPack
 ### Week 5
 - Chapter 5 is more about GRUB. Here is my [week 5 script](https://github.com/vangx033/week5). I utilized the dmesg command to view kernel's boot and logs. I also used cat /proc/cdmline command to view ketnel's parameters.
 ### Week 6
-- No class (V-day)
+- No class (V-day). I re-installed Windows OS back to my machine. Here is my [week 6 script](https://github.com/vangx033/Week6).
 ### Week 7
 -
 ### Week 8
