@@ -14,9 +14,9 @@ FinalPack
 ### Week 6
 - No class (V-day). I re-installed Windows OS back to my machine. Here is my [week 6 script](https://github.com/vangx033/Week6).
 ### Week 7
-- I wrote a [500 words essay](https://github.com/vangx033/week7) respond to [Bill Langenberg's](https://tuftsdev.github.io/WebProgramming/notes/blangenberg.pdf). I also read chapter 7 and applied on my [week 7 script](https://github.com/vangx033/week7/blob/master/Ch7script.sh). One of the command I use was logger command to testing the syster logger.   
+- I wrote a [500 words essay](https://github.com/vangx033/week7) respond to [Bill Langenberg's eassay](https://tuftsdev.github.io/WebProgramming/notes/blangenberg.pdf). I also read chapter 7 and applied on my [week 7 script](https://github.com/vangx033/week7/blob/master/Ch7script.sh). One of the command I use was logger command to testing the syster logger.   
 ### Week 8
--
+- Week 8 was to re-write and re-apply all the commands that I've learned so far. I simply utilized commands from chapter 2 to chapter 7 for my [midterm script](https://github.com/vangx033/week8/blob/master/Week8Script.sh). 
 ### Week 9
 ### Week 10
 ### Week 11
