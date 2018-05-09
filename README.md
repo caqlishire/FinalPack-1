@@ -1,9 +1,9 @@
+
 # FinalPack
 
 #Here are what I learned from each week:
 ### Week 1
-- Introduce each other (It was nice seeing each other)
-- Was introduced to what will be teaching, devices that required, and D2L.
+- First week, we didn't do much. We introduced and talked about some background about Linux to each other. M
 ### Week 2
 -
 ### Week 3
